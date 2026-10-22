@@ -59,7 +59,7 @@
   </p>
 
   <p>
-## 💙・Sobre Mim・🩵
+💙・Sobre Mim・🩵
 
 Olá! Eu sou o Luucasy 👋
 
