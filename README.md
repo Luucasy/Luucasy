@@ -31,7 +31,7 @@
        alt="LinkedIn">
 </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/lucchqs">
+  <a href="https://discord.com/users/848051302696091680">
     <img src="https://cdn.simpleicons.org/discord/5865F2"
          width="35" alt="Discord">
   </a>
