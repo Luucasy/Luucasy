@@ -59,11 +59,17 @@
   </p>
 
   <p>
-    🎓 Estudante de Ciência da Computação<br>
-    💻 Aprendendo programação e desenvolvimento de software<br>
-    🎨 Apaixonado por design, criatividade e edição de vídeos<br>
-    🎬 Tenho o sonho de criar MMVs e desenvolver meu próprio estilo<br>
-    🚀 Sempre buscando aprender coisas novas e evoluir um pouco a cada dia
+## 💙・Sobre Mim・🩵
+
+Olá! Eu sou o Luucasy 👋
+
+🎓 Estudante de Ciência da Computação, construindo minha jornada na tecnologia.
+
+💻 Tenho interesse em desenvolvimento de software e estou desenvolvendo minhas habilidades em programação, explorando novas tecnologias e aprendendo a transformar ideias em projetos.
+
+🎨 Também sou apaixonado por design, criatividade e edição de vídeos, especialmente pela criação de MMVs. Gosto de unir tecnologia e criatividade para desenvolver coisas que tenham minha própria identidade.
+
+🚀 Acredito que evoluir é um processo contínuo. Meu objetivo é aprender na prática, enfrentar novos desafios e construir projetos que representem minha evolução como estudante e futuro profissional da tecnologia.
   </p>
 
   <p>
