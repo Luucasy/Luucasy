@@ -12,10 +12,7 @@
   <p>🎓 Computer Science Student</p>
   <p>💻 Learning to code</p>
   <p>🎨 Future MMV Editor</p>
-</td>
-
-
-  
+</td> 
   </table>
 </div>
 
