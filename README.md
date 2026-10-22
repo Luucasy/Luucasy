@@ -1,3 +1,24 @@
-<img src="./Luucasy.gif" alt="Perfil do Luucasy" width="500"> <img src="./borda.png" alt="Hatsune Miku" width="100">
+<div align="center">
+  <table>
+    <tr>
+      <td width="150" align="center" valign="middle">
+        <img src="/Luucasy.gif" width="500">
+      </td>
+      <td>     
+<td align="center" valign="top">
+  <img src="borda.png" width="130">
+
+  <h3>𓆩♡𓆪 Luucasy</h3>
+  <p>🎓 Computer Science Student</p>
+  <p>💻 Learning to code</p>
+  <p>🎨 Future MMV Editor</p>
+</td>
+
+
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
