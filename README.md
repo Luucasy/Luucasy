@@ -55,10 +55,6 @@
   <img src="https://img.shields.io/badge/初音ミク-39C5BB?style=for-the-badge&logo=hatsune-miku&logoColor=white" alt="Hatsune Miku">
 
   <p>
-    Olá! Eu sou o <strong>Luucasy</strong> 👋
-  </p>
-
-  <p>
 💙・Sobre Mim・🩵
 
 Olá! Eu sou o Luucasy 👋
