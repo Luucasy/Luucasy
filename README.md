@@ -25,10 +25,12 @@
          width="35" alt="Instagram">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-siqueira/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-         width="35" alt="LinkedIn">
-  </a>
+<a href="https://www.linkedin.com/in/lucas-siqueira-6b2b0a42a/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="35"
+       height="35"
+       alt="LinkedIn">
+</a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/lucchqs">
     <img src="https://cdn.simpleicons.org/discord/5865F2"
