@@ -14,6 +14,33 @@
   <p>🎨 Futuro MMV Editor</p>
   <p>🎬 Pequeno Editor Vago</p>
   <p>💡 Designer Amador</p>
+  
+<hr>
+
+<h3 align="center">🌐 Minhas Redes</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/luucasy_/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="35" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-siqueira/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+         width="35" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/lucchqs">
+    <img src="https://cdn.simpleicons.org/discord/5865F2"
+         width="35" alt="Discord">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Luucasy">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF"
+         width="35" alt="GitHub">
+  </a>
+</p>
+
 </td> 
   </table>
 </div>
