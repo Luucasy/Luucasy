@@ -85,7 +85,12 @@
   <img src="https://img.shields.io/badge/SQL-39C5BB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
 
 </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="150" align="center" valign="middle">
+        <img src="/miku.gif" width="500">
+      </td>
 
 
 
