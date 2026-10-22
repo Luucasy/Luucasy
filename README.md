@@ -1,3 +1,3 @@
-<img src="./Luucasy.gif" alt="Perfil do Luucasy" width="300">
+<img src="./Luucasy.gif" alt="Perfil do Luucasy" width="500">
 
 
