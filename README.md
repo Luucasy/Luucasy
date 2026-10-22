@@ -48,4 +48,44 @@
 </div>
 
 
+<h2 align="center">💙・Sobre Mim・🩵</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/初音ミク-39C5BB?style=for-the-badge&logo=hatsune-miku&logoColor=white" alt="Hatsune Miku">
+
+  <p>
+    Olá! Eu sou o <strong>Luucasy</strong> 👋
+  </p>
+
+  <p>
+    🎓 Estudante de Ciência da Computação<br>
+    💻 Aprendendo programação e desenvolvimento de software<br>
+    🎨 Apaixonado por design, criatividade e edição de vídeos<br>
+    🎬 Tenho o sonho de criar MMVs e desenvolver meu próprio estilo<br>
+    🚀 Sempre buscando aprender coisas novas e evoluir um pouco a cada dia
+  </p>
+
+  <p>
+    <em>"Transformando ideias em projetos, um passo de cada vez."</em>
+  </p>
+
+</div>
+
+---
+
+<h3 align="center">🩵・Atualmente Aprendendo・🩵</h3>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL-39C5BB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+
+</div>
+
+
+
 
