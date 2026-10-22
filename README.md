@@ -12,7 +12,6 @@
   <p>🎓 Ciência da Computação</p>
   <p>💻 Aprendendo a Programar</p>
   <p>🎨 Futuro MMV Editor</p>
-  <p>🎬 Pequeno Editor Vago</p>
   <p>💡 Designer Amador</p>
   
 <hr>
