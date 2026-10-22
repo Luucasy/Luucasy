@@ -1,2 +1,3 @@
-![Perfil do Luucasy](./Luucasy.gif)
+<img src="./Luucasy.gif" alt="Perfil do Luucasy" width="300">
+
 
