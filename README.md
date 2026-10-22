@@ -1,5 +1,2 @@
-
-
-
-![Currículo do Lucas 2026](./welcome.gif)
+![Perfil do Luucasy](./Luucasy.gif)
 
